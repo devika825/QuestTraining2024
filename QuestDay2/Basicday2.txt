@@ -1,0 +1,119 @@
+ASSEMBLY LANGUAGE
+
+Assembly language is a low-level programming language that is closely related to machine code.
+It provides a way to write programs using mnemonic codes and symbols instead of binary, making it easier to read and write. 
+Each assembly language is specific to a particular computer architecture.
+
+ASSEMBLER
+
+An assembler is a specialized software tool that translates assembly language code, which is a low-level programming language,
+into machine code (binary code) that a computer's processor can execute directly.
+
+MACHINE LEVEL LANGUAGE
+
+
+Machine language is the lowest level of programming language, consisting entirely of binary code that a computer's central processing unit (CPU) can directly execute. 
+It is specific to a particular architecture and is composed of a series of instructions that control the CPU's operations.
+
+HIGH LEVEL LANGUAGE
+
+High-level languages are programming languages that provide a significant level of abstraction from a computer's hardware. 
+They are designed to be easy to read, write, and maintain, making them more user-friendly compared to low-level languages. Here’s a breakdown of high-level languages,
+their characteristics, advantages, and examples.
+
+COMPILER
+
+A compiler is a program that translates the entire source code of a high-level programming language into machine code or an intermediate form before execution.
+This process allows developers to write code in a more understandable and manageable way while still enabling the computer to perform the instructions efficiently.
+
+INTERPRETER
+
+An interpreter is a program that translates and executes high-level programming code line-by-line or statement-by-statement.
+This allows developers to run their code without needing to compile it into a separate executable file first
+
+CODE EDITOR
+
+A code editor is a software application designed specifically for writing and editing source code. Code editors often provide features that enhance the coding experience,
+making it easier for developers to write, modify, and manage code effectively. 
+
+Syntax Highlighting
+Auto-Completion
+Customizability
+Debugging Tools
+Line Numbering
+Code Folding
+
+INTEGRATED DEVELOPMENT ENVIRONMENT
+
+An Integrated Development Environment (IDE) is a comprehensive software application that provides developers with a set of tools for software development in a single interface. IDEs typically combine a code editor, debugger, compiler or interpreter, and other features that facilitate the software development process. 
+
+Key Features of IDEs
+
+Code Editor: A built-in code editor with features like syntax highlighting, code completion, and formatting to enhance the coding experience.
+Debugger: Tools for debugging code, including breakpoints, step-through execution, and variable inspection to help identify and fix errors.
+Build Automation: Support for compiling code and managing builds, often with integrated build systems that simplify the process of compiling and linking code.
+Version Control Integration: Integration with version control systems (e.g., Git) to manage code changes and collaborate with other developers.
+Project Management: Features for organizing code files, libraries, and resources within projects, making it easier to manage complex software solutions.
+Testing Tools: Built-in or integrated tools for writing and executing unit tests, helping ensure code quality and correctness.
+Documentation and Help: Access to documentation, code references, and help features to assist developers in writing and understanding code.
+Plugins and Extensions: Support for additional plugins and extensions to customize the IDE and enhance functionality based on specific needs.
+
+Just-In-Time (JIT) Compilation
+
+JIT compilation occurs at runtime. When a program is executed, the JIT compiler translates parts of the code into machine code on-the-fly,
+just before they are executed.
+
+Ahead-Of-Time (AOT) Compilation
+
+AOT compilation translates high-level code into machine code before execution, creating a standalone executable file.
+This process occurs during the build phase.
+
+1.ADD TWO NUMBERS
+
+Start
+Please enter two numbers
+Read number 1,number 2
+Sum = number 1 + number 2
+Write sum
+End
+
+2.CHECK POSITIVE OR NOT
+
+START
+WRITE enter the number
+Read the number as num
+IF num > 0
+PRINT positive
+ELSEIF num < 0
+PRINT negative 
+ELSE PRINT zero
+END
+
+3.LARGEST OR NOT
+
+START
+Enter 3 numbers n1,n2,n3
+largest = N1
+IF n2 > n1
+    n2 = largest
+IF n3 > n2
+    n3 = largest
+PRINT largest
+END
+
+4.EVEN OR ODD
+
+START
+FOR number from 0 to 10:
+        IF number % 2 = 0;
+            PRINT number
+END
+
+
+
+
+
+
+
+
+
