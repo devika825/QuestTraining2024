@@ -1,0 +1,7 @@
+C:\Users\Devika Jayan\OneDrive\Documents\GitHub\QuestTraining2024\QuestDay4\Day4\WordsOccur\bin\Debug\WordsOccur.exe.config
+C:\Users\Devika Jayan\OneDrive\Documents\GitHub\QuestTraining2024\QuestDay4\Day4\WordsOccur\bin\Debug\WordsOccur.exe
+C:\Users\Devika Jayan\OneDrive\Documents\GitHub\QuestTraining2024\QuestDay4\Day4\WordsOccur\bin\Debug\WordsOccur.pdb
+C:\Users\Devika Jayan\OneDrive\Documents\GitHub\QuestTraining2024\QuestDay4\Day4\WordsOccur\obj\Debug\WordsOccur.csproj.AssemblyReference.cache
+C:\Users\Devika Jayan\OneDrive\Documents\GitHub\QuestTraining2024\QuestDay4\Day4\WordsOccur\obj\Debug\WordsOccur.csproj.CoreCompileInputs.cache
+C:\Users\Devika Jayan\OneDrive\Documents\GitHub\QuestTraining2024\QuestDay4\Day4\WordsOccur\obj\Debug\WordsOccur.exe
+C:\Users\Devika Jayan\OneDrive\Documents\GitHub\QuestTraining2024\QuestDay4\Day4\WordsOccur\obj\Debug\WordsOccur.pdb

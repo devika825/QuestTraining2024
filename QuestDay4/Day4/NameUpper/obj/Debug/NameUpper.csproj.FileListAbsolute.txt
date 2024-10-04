@@ -1,0 +1,7 @@
+C:\Users\Devika Jayan\OneDrive\Documents\GitHub\QuestTraining2024\QuestDay4\Day4\NameUpper\bin\Debug\NameUpper.exe.config
+C:\Users\Devika Jayan\OneDrive\Documents\GitHub\QuestTraining2024\QuestDay4\Day4\NameUpper\bin\Debug\NameUpper.exe
+C:\Users\Devika Jayan\OneDrive\Documents\GitHub\QuestTraining2024\QuestDay4\Day4\NameUpper\bin\Debug\NameUpper.pdb
+C:\Users\Devika Jayan\OneDrive\Documents\GitHub\QuestTraining2024\QuestDay4\Day4\NameUpper\obj\Debug\NameUpper.csproj.AssemblyReference.cache
+C:\Users\Devika Jayan\OneDrive\Documents\GitHub\QuestTraining2024\QuestDay4\Day4\NameUpper\obj\Debug\NameUpper.csproj.CoreCompileInputs.cache
+C:\Users\Devika Jayan\OneDrive\Documents\GitHub\QuestTraining2024\QuestDay4\Day4\NameUpper\obj\Debug\NameUpper.exe
+C:\Users\Devika Jayan\OneDrive\Documents\GitHub\QuestTraining2024\QuestDay4\Day4\NameUpper\obj\Debug\NameUpper.pdb

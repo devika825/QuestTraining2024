@@ -1,0 +1,7 @@
+C:\Users\Devika Jayan\OneDrive\Documents\GitHub\QuestTraining2024\QuestDay4\Day4\Halfpyrmaid\bin\Debug\Halfpyrmaid.exe.config
+C:\Users\Devika Jayan\OneDrive\Documents\GitHub\QuestTraining2024\QuestDay4\Day4\Halfpyrmaid\bin\Debug\Halfpyrmaid.exe
+C:\Users\Devika Jayan\OneDrive\Documents\GitHub\QuestTraining2024\QuestDay4\Day4\Halfpyrmaid\bin\Debug\Halfpyrmaid.pdb
+C:\Users\Devika Jayan\OneDrive\Documents\GitHub\QuestTraining2024\QuestDay4\Day4\Halfpyrmaid\obj\Debug\Halfpyrmaid.csproj.AssemblyReference.cache
+C:\Users\Devika Jayan\OneDrive\Documents\GitHub\QuestTraining2024\QuestDay4\Day4\Halfpyrmaid\obj\Debug\Halfpyrmaid.csproj.CoreCompileInputs.cache
+C:\Users\Devika Jayan\OneDrive\Documents\GitHub\QuestTraining2024\QuestDay4\Day4\Halfpyrmaid\obj\Debug\Halfpyrmaid.exe
+C:\Users\Devika Jayan\OneDrive\Documents\GitHub\QuestTraining2024\QuestDay4\Day4\Halfpyrmaid\obj\Debug\Halfpyrmaid.pdb

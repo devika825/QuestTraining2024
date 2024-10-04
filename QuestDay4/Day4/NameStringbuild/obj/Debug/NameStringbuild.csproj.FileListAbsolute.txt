@@ -1,0 +1,7 @@
+C:\Users\Devika Jayan\OneDrive\Documents\GitHub\QuestTraining2024\QuestDay4\Day4\NameStringbuild\bin\Debug\NameStringbuild.exe.config
+C:\Users\Devika Jayan\OneDrive\Documents\GitHub\QuestTraining2024\QuestDay4\Day4\NameStringbuild\bin\Debug\NameStringbuild.exe
+C:\Users\Devika Jayan\OneDrive\Documents\GitHub\QuestTraining2024\QuestDay4\Day4\NameStringbuild\bin\Debug\NameStringbuild.pdb
+C:\Users\Devika Jayan\OneDrive\Documents\GitHub\QuestTraining2024\QuestDay4\Day4\NameStringbuild\obj\Debug\NameStringbuild.csproj.AssemblyReference.cache
+C:\Users\Devika Jayan\OneDrive\Documents\GitHub\QuestTraining2024\QuestDay4\Day4\NameStringbuild\obj\Debug\NameStringbuild.csproj.CoreCompileInputs.cache
+C:\Users\Devika Jayan\OneDrive\Documents\GitHub\QuestTraining2024\QuestDay4\Day4\NameStringbuild\obj\Debug\NameStringbuild.exe
+C:\Users\Devika Jayan\OneDrive\Documents\GitHub\QuestTraining2024\QuestDay4\Day4\NameStringbuild\obj\Debug\NameStringbuild.pdb
