@@ -1,0 +1,7 @@
+C:\Users\Devika Jayan\source\repos\exampleday3\exampleday3\bin\Debug\exampleday3.exe.config
+C:\Users\Devika Jayan\source\repos\exampleday3\exampleday3\bin\Debug\exampleday3.exe
+C:\Users\Devika Jayan\source\repos\exampleday3\exampleday3\bin\Debug\exampleday3.pdb
+C:\Users\Devika Jayan\source\repos\exampleday3\exampleday3\obj\Debug\exampleday3.csproj.AssemblyReference.cache
+C:\Users\Devika Jayan\source\repos\exampleday3\exampleday3\obj\Debug\exampleday3.csproj.CoreCompileInputs.cache
+C:\Users\Devika Jayan\source\repos\exampleday3\exampleday3\obj\Debug\exampleday3.exe
+C:\Users\Devika Jayan\source\repos\exampleday3\exampleday3\obj\Debug\exampleday3.pdb

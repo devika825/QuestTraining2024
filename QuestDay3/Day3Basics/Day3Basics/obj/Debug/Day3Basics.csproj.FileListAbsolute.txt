@@ -1,0 +1,7 @@
+C:\Users\Devika Jayan\source\repos\Day3Basics\Day3Basics\bin\Debug\Day3Basics.exe.config
+C:\Users\Devika Jayan\source\repos\Day3Basics\Day3Basics\bin\Debug\Day3Basics.exe
+C:\Users\Devika Jayan\source\repos\Day3Basics\Day3Basics\bin\Debug\Day3Basics.pdb
+C:\Users\Devika Jayan\source\repos\Day3Basics\Day3Basics\obj\Debug\Day3Basics.csproj.AssemblyReference.cache
+C:\Users\Devika Jayan\source\repos\Day3Basics\Day3Basics\obj\Debug\Day3Basics.csproj.CoreCompileInputs.cache
+C:\Users\Devika Jayan\source\repos\Day3Basics\Day3Basics\obj\Debug\Day3Basics.exe
+C:\Users\Devika Jayan\source\repos\Day3Basics\Day3Basics\obj\Debug\Day3Basics.pdb
