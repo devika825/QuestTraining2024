@@ -1,0 +1,7 @@
+C:\Users\Devika Jayan\OneDrive\Documents\GitHub\QuestTraining2024\Day5\DictionaryType\bin\Debug\DictionaryType.exe.config
+C:\Users\Devika Jayan\OneDrive\Documents\GitHub\QuestTraining2024\Day5\DictionaryType\bin\Debug\DictionaryType.exe
+C:\Users\Devika Jayan\OneDrive\Documents\GitHub\QuestTraining2024\Day5\DictionaryType\bin\Debug\DictionaryType.pdb
+C:\Users\Devika Jayan\OneDrive\Documents\GitHub\QuestTraining2024\Day5\DictionaryType\obj\Debug\DictionaryType.csproj.AssemblyReference.cache
+C:\Users\Devika Jayan\OneDrive\Documents\GitHub\QuestTraining2024\Day5\DictionaryType\obj\Debug\DictionaryType.csproj.CoreCompileInputs.cache
+C:\Users\Devika Jayan\OneDrive\Documents\GitHub\QuestTraining2024\Day5\DictionaryType\obj\Debug\DictionaryType.exe
+C:\Users\Devika Jayan\OneDrive\Documents\GitHub\QuestTraining2024\Day5\DictionaryType\obj\Debug\DictionaryType.pdb
