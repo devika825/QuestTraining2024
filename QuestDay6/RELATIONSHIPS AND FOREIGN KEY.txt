@@ -1,0 +1,24 @@
+1. One-to-One (1:1) Relationship
+In a one-to-one relationship, a record in one table is associated with exactly one record in another table.
+
+Example: A Person table and a Passport table, where each person can have only one passport, and each passport belongs to only one person.
+
+2. One-to-Many 
+In a one-to-many relationship, a record in one table can be associated with multiple records in another table.
+
+Example: A Customer table and an Order table, where each customer can place multiple orders, but each order is linked to only one customer.
+
+3. Many-to-Many
+
+In a many-to-many relationship, multiple records in one table can be associated with multiple records in another table. 
+
+Example: A Student table and a Course table, where each student can enroll in multiple courses, and each course can have multiple students.
+
+4. Many-to-One (N:1) Relationship
+This is essentially the reverse of the one-to-many relationship. In this case, multiple records in one table can refer to a single record in another table
+
+5. Self-Referencing Relationship
+Definition: A table has a foreign key that references its own primary key. Implementation: This is used to create hierarchical data structures. 
+Use Case: An employee table where each employee can have a manager, who is also an employee.
+
+6. A foreign key is a column (or a set of columns) in one table that refers to the primary key of another table.
