@@ -1,0 +1,31 @@
+NORMALISATION
+
+Normalization is the process of organizing the data in a database to reduce redundancy and improve data integrity. The main goal of normalization is to divide a database into smaller tables and define relationships between them to eliminate duplicate data, inconsistencies, and anomalies when inserting, updating, or deleting records.
+
+Benefits of Normalization:
+
+Eliminates Redundancy: Redundant data takes up unnecessary space and can lead to anomalies.
+Improves Data Integrity: Reduces the chances of data inconsistency.
+Simplifies Maintenance: Makes updating and maintaining the database easier by ensuring that changes are made in only one place.
+Optimizes Queries: Helps in breaking down large, complex tables into smaller, more efficient ones for queries.
+
+
+
+1. First Normal Form (1NF)
+A table is in 1NF if:
+
+All columns contain atomic values (indivisible values).
+Each column contains only a single value, and all entries in a column are of the same data type.
+There are no repeating groups or arrays of values.
+
+2. Second Normal Form (2NF)
+A table is in 2NF if:
+
+It is already in 1NF.
+All non-key attributes are fully dependent on the primary key (i.e., there should not be partial dependency on part of a composite key).
+
+3. Third Normal Form (3NF)
+A table is in 3NF if:
+
+It is already in 2NF.
+There are no transitive dependencies (non-key attributes should not depend on other non-key attributes).

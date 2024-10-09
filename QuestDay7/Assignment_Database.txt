@@ -1,0 +1,281 @@
+->>DDL
+
+Data Definition Language (DDL) is a subset of SQL (Structured Query Language) that deals with the structure (schema) of the database. DDL statements are used to create, modify, and delete database objects such as tables, indexes, and views.
+
+DDL is primarily concerned with the schema itself.
+DDL is used to define the structure of the database and its objects.
+Most DDL statements are auto-committed, meaning that changes are immediately saved to the database.
+DDL does not manage or manipulate the actual data within the tables
+
+Common DDL Commands
+
+CREATE: This command is used to create new database objects.
+Creating a Table,Creating an Index,Creating a View
+
+ALTER: This command is used to modify existing database objects.
+Adding a Column,Modifying a Column,Dropping a Column
+
+DROP: This command is used to delete database objects.
+Dropping a Table,Dropping an Index, Dropping a View
+
+TRUNCATE: This command is used to delete all records from a table while keeping its structure intact. It is faster than a DELETE statement without a WHERE clause.
+
+
+->>DML
+
+Data Manipulation Language (DML) is a subset of SQL (Structured Query Language) that deals with the manipulation of data within existing database objects. DML commands are used to retrieve, insert, update, and delete data in the tables of a database.
+
+DML does not modify the database schema; it only modifies the data itself.
+DML statements can be committed or rolled back, allowing for more control over changes to the data.
+
+Common DML Commands
+
+SELECT: This command is used to retrieve data from one or more tables
+
+INSERT: This command is used to add new records to a table
+
+UPDATE: This command is used to modify existing records in a table.
+
+DELETE: This command is used to remove records from a table.
+
+->>DCL
+
+Data Control Language (DCL) is a subset of SQL (Structured Query Language) that deals with the rights, permissions, and other controls of the database system. DCL commands are primarily used to grant or revoke access to the database objects, ensuring that only authorized users can perform specific operations on the data.
+
+Common DCL Commands
+
+GRANT: This command is used to give specific privileges to users or roles.
+
+REVOKE: This command is used to remove specific privileges from users or roles.
+
+->>DQL
+
+Data Query Language (DQL) is a subset of SQL (Structured Query Language) that focuses on querying and retrieving data from a database. DQL is primarily used to select data from one or more tables and is essential for interacting with the database to perform data analysis and reporting.
+
+DQL commands are designed to fetch data from the database.
+
+The output of DQL queries is typically presented in a tabular format, making it easy to understand and analyze.
+
+DQL allows for complex queries involving filtering, sorting, grouping, and joining of data from different tables
+
+Common DQL Commands
+
+SELECT: The primary DQL command used to retrieve data from one or more tables.
+
+->>TCL
+
+Transaction Control Language (TCL) is a subset of SQL (Structured Query Language) that deals with the management of transactions in a database. TCL commands are used to manage changes made by DML (Data Manipulation Language) statements and ensure the integrity of the database.
+
+Common TCL Commands
+
+COMMIT: Saves all changes made during the current transaction to the database.
+
+ROLLBACK: Undoes all changes made during the current transaction. It restores the database to its state before the transaction began.
+
+-->SELECT
+
+The SELECT statement is a fundamental part of SQL (Structured Query Language) and is used to query and retrieve data from a database. It allows users to specify exactly what data they want to retrieve, including selecting specific columns, filtering rows based on conditions, and performing aggregations.
+
+->>WHERE
+
+The WHERE clause in SQL is used to filter records that meet a specified condition. It's used in conjunction with the SELECT, UPDATE, DELETE, and other SQL statements to refine the results by including only those rows that satisfy the given condition.
+
+->>ORDERBY
+
+The ORDER BY clause in SQL is used to sort the result set of a query based on one or more columns. It can sort the data in ascending (ASC) or descending (DESC) order. By default, ORDER BY sorts in ascending order.
+
+->>INSERT
+
+The INSERT statement is used to insert new rows (records) into a table.
+
+-->>UPDATE
+
+The UPDATE statement is used to modify existing records in a table. It changes the values in one or more columns for one or more rows.
+
+-->>DELETE
+
+The DELETE statement is used to remove rows from a table based on a condition.
+
+-->>TRUNCATE
+
+The TRUNCATE statement is a DDL operation used to remove all rows from a table, effectively resetting it. It is faster and uses less system and transaction log space than the DELETE statement because it does not generate individual row delete actions
+
+-->>TYPES OF JOINS
+
+In SQL, joins are used to combine rows from two or more tables based on a related column between them.
+
+1. INNER JOIN
+
+An INNER JOIN returns records that have matching values in both tables. If there is no match, the rows are not included in the result.
+
+2. LEFT JOIN (LEFT OUTER JOIN)
+
+A LEFT JOIN returns all records from the left table (table1) and the matching records from the right table (table2). If there is no match, the result will contain NULL for columns from the right table.
+
+3. RIGHT JOIN (RIGHT OUTER JOIN)
+
+A RIGHT JOIN is the opposite of a LEFT JOIN. It returns all records from the right table (table2) and the matching records from the left table (table1). If there is no match, NULL values will be returned for columns from the left table.
+
+4. FULL OUTER JOIN
+
+A FULL OUTER JOIN returns all records from both tables. If there is no match, NULL values are returned for columns where there is no match from either table.
+
+5. CROSS JOIN
+
+A CROSS JOIN returns the Cartesian product of the two tables, i.e., every possible combination of rows from the two tables. It doesn’t require a matching condition.
+
+6. SELF JOIN
+
+A SELF JOIN is a regular join, but the table is joined with itself. This can be useful for comparing rows in the same table.
+
+
+-->>GROUPBY
+
+The GROUP BY clause is used to group rows that have the same values in specified columns into summary rows. It is often used with aggregate functions like COUNT(), SUM(), AVG(), MIN(), and MAX() to perform calculations on each group.
+
+-->>HAVING
+
+The HAVING clause is used to filter records that work on summarized group data. Unlike the WHERE clause, which filters records before grouping, HAVING filters after the aggregation has been performed.
+
+GROUP BY is used to group rows based on one or more columns and is typically used with aggregate functions to calculate summaries for each group.
+
+HAVING is used to filter the results of a GROUP BY query based on conditions applied to the aggregate functions.
+
+-->>AGGREGATE FUNCTIONS
+
+Aggregate functions in SQL are functions that perform a calculation on a set of values and return a single value. They are often used with the GROUP BY clause to summarize data.
+
+1. COUNT()
+Description: Returns the number of rows that match a specified condition.
+
+2. SUM()
+Description: Returns the total sum of a numeric column.
+
+3. AVG()
+Description: Returns the average value of a numeric column.
+
+4. MIN()
+Description: Returns the minimum value from a set of values.
+
+5. MAX()
+Description: Returns the maximum value from a set of values.
+
+
+-->>DISTINCT
+
+The DISTINCT keyword is used to return only unique (different) values in the result set.
+
+-->>CREATE INDEX
+
+The CREATE INDEX command is used to create an index on a table to improve the speed of data retrieval.
+
+-->>SUBQUERY
+
+A subquery (or inner query) is a query nested inside another SQL query. Subqueries can be used to perform operations that require multiple steps, allowing you to retrieve data based on the results of another query. They can be used in various clauses like SELECT, FROM, WHERE, and HAVING.
+
+Types of Subqueries
+Single-Row Subquery: Returns a single row of data.
+Multiple-Row Subquery: Returns multiple rows of data.
+Scalar Subquery: Returns a single value (one column and one row).
+
+-->>STORED PROCEDURE
+
+A stored procedure is a precompiled collection of one or more SQL statements that can be executed as a single unit. Stored procedures are stored in the database and can accept parameters, allowing for dynamic execution of SQL commands. They are useful for encapsulating logic, simplifying complex queries, and promoting code reuse.
+
+-->>VIEW
+
+A view in SQL is a virtual table that is based on the result set of a SELECT query. It does not store the data physically but provides a way to present data from one or more tables in a specific manner
+
+Characteristics of Views
+Virtual Table:
+
+Views act as virtual tables. They do not store data themselves but display data stored in the underlying tables.
+Derived from SELECT Queries:
+
+A view is defined by a SQL SELECT query. This query can include joins, filters, and aggregations.
+Dynamic:
+
+Since views reflect the current state of the underlying tables, any changes made to the data in those tables will be reflected in the view immediately.
+Read-Only or Updatable:
+
+Some views can be updated if they meet certain criteria, while others are read-only.
+Advantages of Using Views
+Simplification:
+
+Views can simplify complex queries by encapsulating them. This allows users to access data through simpler queries.
+Data Security:
+
+Views can restrict access to specific data. By granting users access to a view instead of the underlying tables, you can limit their visibility to sensitive data.
+Logical Data Independence:
+
+Changes to the underlying table structure can be hidden from users by altering the view definition without affecting the queries that rely on it.
+Consistent Data Presentation:
+
+Views can provide a consistent interface to data, regardless of how it is stored in the underlying tables.
+Aggregate and Summary Data:
+
+Views can be used to present summarized or aggregated data, making it easier for users to access key metrics without needing to perform aggregations in their queries.
+
+
+Limitations of Views
+
+Performance:
+
+Views may introduce some performance overhead since they need to execute the underlying SELECT query every time the view is queried.
+Not All Views are Updatable:
+
+Some views, particularly those that involve complex joins, aggregations, or DISTINCT clauses, may not be updatable.
+Dependency:
+
+If the underlying tables change (like renaming columns or dropping tables), the views may become invalid and require redefinition.
+
+--TRIGGER
+
+A trigger is a special type of stored procedure in SQL that automatically executes or fires in response to certain events on a particular table or view. Triggers are used to enforce business rules, maintain data integrity, or automatically perform operations when specific changes occur in the database, such as insertions, updates, or deletions.
+
+-->>SQL FUNCTIONS
+
+In SQL, functions are named blocks of code that perform specific tasks and return a single value or a table. They can be built-in functions provided by the SQL database or user-defined functions created by the user to encapsulate logic that can be reused. 
+
+1.Built-in Functions
+
+Built-in functions can be categorized into several types:
+
+Aggregate Functions: These functions operate on a set of values and return a single value.
+
+Examples:
+COUNT(): Returns the number of rows.
+SUM(): Returns the sum of a numeric column.
+AVG(): Returns the average value of a numeric column.
+MIN(): Returns the minimum value of a column.
+MAX(): Returns the maximum value of a column.
+
+
+String Functions: These functions operate on string data types.
+
+Examples:
+LENGTH(): Returns the length of a string.
+UPPER(): Converts a string to uppercase.
+LOWER(): Converts a string to lowercase.
+CONCAT(): Concatenates two or more strings.
+
+
+Date and Time Functions: These functions perform operations on date and time values.
+
+Examples:
+GETDATE(): Returns the current date and time.
+DATEDIFF(): Returns the difference between two dates.
+DATEADD(): Adds a specified interval to a date.
+
+Mathematical Functions: These functions perform mathematical operations.
+
+Examples:
+ROUND(): Rounds a number to a specified decimal place.
+ABS(): Returns the absolute value of a number.
+FLOOR(): Returns the largest integer less than or equal to a number.
+
+2.User-Defined Functions (UDFs)
+
+Scalar Functions: These functions return a single value.
+
+Table-Valued Functions: These functions return a table data type.
