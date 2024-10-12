@@ -1,0 +1,7 @@
+C:\Users\Devika Jayan\source\repos\PatientDiagnosis\PatientDiagnosis\bin\Debug\PatientDiagnosis.exe.config
+C:\Users\Devika Jayan\source\repos\PatientDiagnosis\PatientDiagnosis\bin\Debug\PatientDiagnosis.exe
+C:\Users\Devika Jayan\source\repos\PatientDiagnosis\PatientDiagnosis\bin\Debug\PatientDiagnosis.pdb
+C:\Users\Devika Jayan\source\repos\PatientDiagnosis\PatientDiagnosis\obj\Debug\PatientDiagnosis.csproj.AssemblyReference.cache
+C:\Users\Devika Jayan\source\repos\PatientDiagnosis\PatientDiagnosis\obj\Debug\PatientDiagnosis.csproj.CoreCompileInputs.cache
+C:\Users\Devika Jayan\source\repos\PatientDiagnosis\PatientDiagnosis\obj\Debug\PatientDiagnosis.exe
+C:\Users\Devika Jayan\source\repos\PatientDiagnosis\PatientDiagnosis\obj\Debug\PatientDiagnosis.pdb
