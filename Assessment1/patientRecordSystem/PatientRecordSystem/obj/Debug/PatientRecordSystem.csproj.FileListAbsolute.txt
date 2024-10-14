@@ -1,0 +1,7 @@
+C:\Users\Devika Jayan\OneDrive\Documents\GitHub\QuestTraining2024\Assessment1\PatientRecordSystem\PatientRecordSystem\bin\Debug\PatientRecordSystem.exe.config
+C:\Users\Devika Jayan\OneDrive\Documents\GitHub\QuestTraining2024\Assessment1\PatientRecordSystem\PatientRecordSystem\bin\Debug\PatientRecordSystem.exe
+C:\Users\Devika Jayan\OneDrive\Documents\GitHub\QuestTraining2024\Assessment1\PatientRecordSystem\PatientRecordSystem\bin\Debug\PatientRecordSystem.pdb
+C:\Users\Devika Jayan\OneDrive\Documents\GitHub\QuestTraining2024\Assessment1\PatientRecordSystem\PatientRecordSystem\obj\Debug\PatientRecordSystem.csproj.AssemblyReference.cache
+C:\Users\Devika Jayan\OneDrive\Documents\GitHub\QuestTraining2024\Assessment1\PatientRecordSystem\PatientRecordSystem\obj\Debug\PatientRecordSystem.csproj.CoreCompileInputs.cache
+C:\Users\Devika Jayan\OneDrive\Documents\GitHub\QuestTraining2024\Assessment1\PatientRecordSystem\PatientRecordSystem\obj\Debug\PatientRecordSystem.exe
+C:\Users\Devika Jayan\OneDrive\Documents\GitHub\QuestTraining2024\Assessment1\PatientRecordSystem\PatientRecordSystem\obj\Debug\PatientRecordSystem.pdb

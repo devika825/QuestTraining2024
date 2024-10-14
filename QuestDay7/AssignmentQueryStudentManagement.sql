@@ -21,13 +21,15 @@ ExamID INT PRIMARY KEY IDENTITY,
 MinMark INT ,          
 MaxMark INT,     
 );
+
+
 CREATE TABLE MARKS (
 MarkID INT PRIMARY KEY IDENTITY,     
 StudentID INT,                           
 ExamID INT,                                
 SubjectID BIGINT,                             
 Mark INT CHECK (Mark >= 0),               
-CONSTRAINT FK_std_id FOREIGN KEY (StudentID) REFERENCES StudentDetails(id),  
+CONSTRAINT FK_std_id FOREIGN KEY (StudentID) REFERENCES StudentHistory(id),  
 CONSTRAINT FK_ex_id FOREIGN KEY (ExamID) REFERENCES EXAM(ExamID),           
 CONSTRAINT FK_sub_id FOREIGN KEY (SubjectId) REFERENCES Subjects(SubjectId)
 );
@@ -136,3 +138,4 @@ WHERE
 
 
 
+	Select * from marks where SubjectID = (select SubjectID from Subjects where SubjectCode = 'MATH101')
