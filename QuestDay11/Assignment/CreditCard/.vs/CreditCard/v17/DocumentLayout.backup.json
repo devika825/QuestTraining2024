@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Devika Jayan\\OneDrive\\Documents\\GitHub\\QuestTraining2024\\QuestDay11\\Assignment\\CreditCard\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Devika Jayan\\OneDrive\\Documents\\GitHub\\QuestTraining2024\\QuestDay11\\Day11\\Employee\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3608996C-F0BF-4644-9A57-5A37A6D70911}|CreditCard\\CreditCard.csproj|c:\\users\\devika jayan\\onedrive\\documents\\github\\questtraining2024\\questday11\\assignment\\creditcard\\creditcard\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3608996C-F0BF-4644-9A57-5A37A6D70911}|CreditCard\\CreditCard.csproj|solutionrelative:creditcard\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3608996C-F0BF-4644-9A57-5A37A6D70911}|CreditCard\\CreditCard.csproj|c:\\users\\devika jayan\\onedrive\\documents\\github\\questtraining2024\\questday11\\assignment\\creditcard\\creditcard\\carddetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3608996C-F0BF-4644-9A57-5A37A6D70911}|CreditCard\\CreditCard.csproj|solutionrelative:creditcard\\carddetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Devika Jayan\\OneDrive\\Documents\\GitHub\\QuestTraining2024\\QuestDay11\\Day11\\Employee\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\Day11\\Employee\\Program.cs",
+              "ToolTip": "C:\\Users\\Devika Jayan\\OneDrive\\Documents\\GitHub\\QuestTraining2024\\QuestDay11\\Day11\\Employee\\Program.cs",
+              "RelativeToolTip": "..\\..\\Day11\\Employee\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T18:13:18.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CardDetails.cs",
+              "DocumentMoniker": "C:\\Users\\Devika Jayan\\OneDrive\\Documents\\GitHub\\QuestTraining2024\\QuestDay11\\Assignment\\CreditCard\\CreditCard\\CardDetails.cs",
+              "RelativeDocumentMoniker": "CreditCard\\CardDetails.cs",
+              "ToolTip": "C:\\Users\\Devika Jayan\\OneDrive\\Documents\\GitHub\\QuestTraining2024\\QuestDay11\\Assignment\\CreditCard\\CreditCard\\CardDetails.cs",
+              "RelativeToolTip": "CreditCard\\CardDetails.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA/wDAAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T17:24:46.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Devika Jayan\\OneDrive\\Documents\\GitHub\\QuestTraining2024\\QuestDay11\\Assignment\\CreditCard\\CreditCard\\Program.cs",
+              "RelativeDocumentMoniker": "CreditCard\\Program.cs",
+              "ToolTip": "C:\\Users\\Devika Jayan\\OneDrive\\Documents\\GitHub\\QuestTraining2024\\QuestDay11\\Assignment\\CreditCard\\CreditCard\\Program.cs",
+              "RelativeToolTip": "CreditCard\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACkAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T17:17:14.834Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
