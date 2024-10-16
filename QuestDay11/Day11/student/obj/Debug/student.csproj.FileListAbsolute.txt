@@ -1,0 +1,7 @@
+C:\Users\Devika Jayan\source\repos\Day11\student\bin\Debug\student.exe.config
+C:\Users\Devika Jayan\source\repos\Day11\student\bin\Debug\student.exe
+C:\Users\Devika Jayan\source\repos\Day11\student\bin\Debug\student.pdb
+C:\Users\Devika Jayan\source\repos\Day11\student\obj\Debug\student.csproj.AssemblyReference.cache
+C:\Users\Devika Jayan\source\repos\Day11\student\obj\Debug\student.csproj.CoreCompileInputs.cache
+C:\Users\Devika Jayan\source\repos\Day11\student\obj\Debug\student.exe
+C:\Users\Devika Jayan\source\repos\Day11\student\obj\Debug\student.pdb

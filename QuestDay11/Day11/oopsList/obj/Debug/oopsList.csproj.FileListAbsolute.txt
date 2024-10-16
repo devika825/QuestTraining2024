@@ -1,0 +1,7 @@
+C:\Users\Devika Jayan\source\repos\Day11\oopsList\bin\Debug\oopsList.exe.config
+C:\Users\Devika Jayan\source\repos\Day11\oopsList\bin\Debug\oopsList.exe
+C:\Users\Devika Jayan\source\repos\Day11\oopsList\bin\Debug\oopsList.pdb
+C:\Users\Devika Jayan\source\repos\Day11\oopsList\obj\Debug\oopsList.csproj.AssemblyReference.cache
+C:\Users\Devika Jayan\source\repos\Day11\oopsList\obj\Debug\oopsList.csproj.CoreCompileInputs.cache
+C:\Users\Devika Jayan\source\repos\Day11\oopsList\obj\Debug\oopsList.exe
+C:\Users\Devika Jayan\source\repos\Day11\oopsList\obj\Debug\oopsList.pdb

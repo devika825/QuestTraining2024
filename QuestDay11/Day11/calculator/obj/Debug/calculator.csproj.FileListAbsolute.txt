@@ -1,0 +1,7 @@
+C:\Users\Devika Jayan\source\repos\Day11\calculator\bin\Debug\calculator.exe.config
+C:\Users\Devika Jayan\source\repos\Day11\calculator\bin\Debug\calculator.exe
+C:\Users\Devika Jayan\source\repos\Day11\calculator\bin\Debug\calculator.pdb
+C:\Users\Devika Jayan\source\repos\Day11\calculator\obj\Debug\calculator.csproj.AssemblyReference.cache
+C:\Users\Devika Jayan\source\repos\Day11\calculator\obj\Debug\calculator.csproj.CoreCompileInputs.cache
+C:\Users\Devika Jayan\source\repos\Day11\calculator\obj\Debug\calculator.exe
+C:\Users\Devika Jayan\source\repos\Day11\calculator\obj\Debug\calculator.pdb
