@@ -11,8 +11,8 @@ namespace CreditCard
     {
         static void Main(string[] args)
         {
-            
-        
+            var ccManager = new CreditCardManager();
+
             while (true)
             {
                 Console.WriteLine("Choose an option:");
@@ -24,29 +24,49 @@ namespace CreditCard
 
                 string option = Console.ReadLine();
 
-                 switch(option)
-                    {
+                switch (option)
+                {
                     case "1":
-                        
+                        var card = GetCardData();
+                        ccManager.Add(card);
                         break;
                     case "2":
-                       
+                        Console.WriteLine("Enter the number to search");
+                        var cardNumber = Console.ReadLine();
+                        ccManager.Search(cardNumber);
                         break;
                     case "3":
-                    
+
                         break;
                     case "4":
-                      
+
                         break;
                     case "5":
-                        return; 
+                        return;
                     default:
                         Console.WriteLine("Invalid option, please try again.");
                         break;
-
                 }
-                
             }
         }
+                private static CardDetails GetCardData()
+                {
+                   CardDetails card = new CardDetails();
+
+                    Console.Write("Enter the card holder name: ");
+                    card.CardHolderName = Console.ReadLine();
+
+                    Console.Write("Enter the card number: ");
+                    card.CardNumber = Console.ReadLine();
+
+                    Console.Write("Enter the card expiry date: ");
+                    card.Expiry = Console.ReadLine();
+
+                    Console.Write("Enter the security number: ");
+                    card.Cvc = int.Parse(Console.ReadLine());
+                    return card;
+                }
+            
+        
     }
 }

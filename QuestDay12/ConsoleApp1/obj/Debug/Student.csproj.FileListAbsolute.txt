@@ -1,0 +1,7 @@
+C:\Users\Devika Jayan\OneDrive\Documents\GitHub\QuestTraining2024\QuestDay12\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\Devika Jayan\OneDrive\Documents\GitHub\QuestTraining2024\QuestDay12\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\Devika Jayan\OneDrive\Documents\GitHub\QuestTraining2024\QuestDay12\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\Devika Jayan\OneDrive\Documents\GitHub\QuestTraining2024\QuestDay12\ConsoleApp1\obj\Debug\Student.csproj.AssemblyReference.cache
+C:\Users\Devika Jayan\OneDrive\Documents\GitHub\QuestTraining2024\QuestDay12\ConsoleApp1\obj\Debug\Student.csproj.CoreCompileInputs.cache
+C:\Users\Devika Jayan\OneDrive\Documents\GitHub\QuestTraining2024\QuestDay12\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\Devika Jayan\OneDrive\Documents\GitHub\QuestTraining2024\QuestDay12\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
