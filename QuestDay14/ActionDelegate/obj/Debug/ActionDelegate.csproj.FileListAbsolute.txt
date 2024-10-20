@@ -1,0 +1,7 @@
+C:\Users\Devika Jayan\OneDrive\Documents\GitHub\QuestTraining2024\QuestDay14\ActionDelegate\bin\Debug\ActionDelegate.exe.config
+C:\Users\Devika Jayan\OneDrive\Documents\GitHub\QuestTraining2024\QuestDay14\ActionDelegate\bin\Debug\ActionDelegate.exe
+C:\Users\Devika Jayan\OneDrive\Documents\GitHub\QuestTraining2024\QuestDay14\ActionDelegate\bin\Debug\ActionDelegate.pdb
+C:\Users\Devika Jayan\OneDrive\Documents\GitHub\QuestTraining2024\QuestDay14\ActionDelegate\obj\Debug\ActionDelegate.csproj.AssemblyReference.cache
+C:\Users\Devika Jayan\OneDrive\Documents\GitHub\QuestTraining2024\QuestDay14\ActionDelegate\obj\Debug\ActionDelegate.csproj.CoreCompileInputs.cache
+C:\Users\Devika Jayan\OneDrive\Documents\GitHub\QuestTraining2024\QuestDay14\ActionDelegate\obj\Debug\ActionDelegate.exe
+C:\Users\Devika Jayan\OneDrive\Documents\GitHub\QuestTraining2024\QuestDay14\ActionDelegate\obj\Debug\ActionDelegate.pdb
