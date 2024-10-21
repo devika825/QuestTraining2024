@@ -1,0 +1,7 @@
+C:\Users\Devika Jayan\source\repos\AssignmentDay15\Q4\bin\Debug\Q4.exe.config
+C:\Users\Devika Jayan\source\repos\AssignmentDay15\Q4\bin\Debug\Q4.exe
+C:\Users\Devika Jayan\source\repos\AssignmentDay15\Q4\bin\Debug\Q4.pdb
+C:\Users\Devika Jayan\source\repos\AssignmentDay15\Q4\obj\Debug\Q4.csproj.AssemblyReference.cache
+C:\Users\Devika Jayan\source\repos\AssignmentDay15\Q4\obj\Debug\Q4.csproj.CoreCompileInputs.cache
+C:\Users\Devika Jayan\source\repos\AssignmentDay15\Q4\obj\Debug\Q4.exe
+C:\Users\Devika Jayan\source\repos\AssignmentDay15\Q4\obj\Debug\Q4.pdb

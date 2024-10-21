@@ -1,0 +1,7 @@
+C:\Users\Devika Jayan\source\repos\AssignmentDay15\AssignmentDay15\bin\Debug\AssignmentDay15.exe.config
+C:\Users\Devika Jayan\source\repos\AssignmentDay15\AssignmentDay15\bin\Debug\AssignmentDay15.exe
+C:\Users\Devika Jayan\source\repos\AssignmentDay15\AssignmentDay15\bin\Debug\AssignmentDay15.pdb
+C:\Users\Devika Jayan\source\repos\AssignmentDay15\AssignmentDay15\obj\Debug\AssignmentDay15.csproj.AssemblyReference.cache
+C:\Users\Devika Jayan\source\repos\AssignmentDay15\AssignmentDay15\obj\Debug\AssignmentDay15.csproj.CoreCompileInputs.cache
+C:\Users\Devika Jayan\source\repos\AssignmentDay15\AssignmentDay15\obj\Debug\AssignmentDay15.exe
+C:\Users\Devika Jayan\source\repos\AssignmentDay15\AssignmentDay15\obj\Debug\AssignmentDay15.pdb

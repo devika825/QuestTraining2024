@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Devika Jayan\\source\\repos\\HealthCareManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{49125B5E-443E-48BC-861C-14A128E07F89}|HealthCareManagement\\HealthCareManagement.csproj|c:\\users\\devika jayan\\source\\repos\\healthcaremanagement\\healthcaremanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49125B5E-443E-48BC-861C-14A128E07F89}|HealthCareManagement\\HealthCareManagement.csproj|solutionrelative:healthcaremanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49125B5E-443E-48BC-861C-14A128E07F89}|HealthCareManagement\\HealthCareManagement.csproj|c:\\users\\devika jayan\\source\\repos\\healthcaremanagement\\healthcaremanagement\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49125B5E-443E-48BC-861C-14A128E07F89}|HealthCareManagement\\HealthCareManagement.csproj|solutionrelative:healthcaremanagement\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49125B5E-443E-48BC-861C-14A128E07F89}|HealthCareManagement\\HealthCareManagement.csproj|c:\\users\\devika jayan\\source\\repos\\healthcaremanagement\\healthcaremanagement\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49125B5E-443E-48BC-861C-14A128E07F89}|HealthCareManagement\\HealthCareManagement.csproj|solutionrelative:healthcaremanagement\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Appointment.cs",
+              "DocumentMoniker": "C:\\Users\\Devika Jayan\\source\\repos\\HealthCareManagement\\HealthCareManagement\\Appointment.cs",
+              "RelativeDocumentMoniker": "HealthCareManagement\\Appointment.cs",
+              "ToolTip": "C:\\Users\\Devika Jayan\\source\\repos\\HealthCareManagement\\HealthCareManagement\\Appointment.cs",
+              "RelativeToolTip": "HealthCareManagement\\Appointment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T11:18:54.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Patient.cs",
+              "DocumentMoniker": "C:\\Users\\Devika Jayan\\source\\repos\\HealthCareManagement\\HealthCareManagement\\Patient.cs",
+              "RelativeDocumentMoniker": "HealthCareManagement\\Patient.cs",
+              "ToolTip": "C:\\Users\\Devika Jayan\\source\\repos\\HealthCareManagement\\HealthCareManagement\\Patient.cs",
+              "RelativeToolTip": "HealthCareManagement\\Patient.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAADwvw0AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T11:14:31.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Devika Jayan\\source\\repos\\HealthCareManagement\\HealthCareManagement\\Program.cs",
+              "RelativeDocumentMoniker": "HealthCareManagement\\Program.cs",
+              "ToolTip": "C:\\Users\\Devika Jayan\\source\\repos\\HealthCareManagement\\HealthCareManagement\\Program.cs*",
+              "RelativeToolTip": "HealthCareManagement\\Program.cs*",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAQwFUAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T11:13:23.78Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

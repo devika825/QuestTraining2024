@@ -1,0 +1,7 @@
+C:\Users\Devika Jayan\OneDrive\Documents\GitHub\QuestTraining2024\QuestDay15\Linq\bin\Debug\Linq.exe.config
+C:\Users\Devika Jayan\OneDrive\Documents\GitHub\QuestTraining2024\QuestDay15\Linq\bin\Debug\Linq.exe
+C:\Users\Devika Jayan\OneDrive\Documents\GitHub\QuestTraining2024\QuestDay15\Linq\bin\Debug\Linq.pdb
+C:\Users\Devika Jayan\OneDrive\Documents\GitHub\QuestTraining2024\QuestDay15\Linq\obj\Debug\Linq.csproj.AssemblyReference.cache
+C:\Users\Devika Jayan\OneDrive\Documents\GitHub\QuestTraining2024\QuestDay15\Linq\obj\Debug\Linq.csproj.CoreCompileInputs.cache
+C:\Users\Devika Jayan\OneDrive\Documents\GitHub\QuestTraining2024\QuestDay15\Linq\obj\Debug\Linq.exe
+C:\Users\Devika Jayan\OneDrive\Documents\GitHub\QuestTraining2024\QuestDay15\Linq\obj\Debug\Linq.pdb

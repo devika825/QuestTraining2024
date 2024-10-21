@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuestDay15", "QuestDay15\QuestDay15.csproj", "{2FF5E49B-3A0E-4DF9-8873-0E54A6EBA52C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Linq", "Linq\Linq.csproj", "{EC21B575-4A4B-4A00-824A-C03DE44E626B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2FF5E49B-3A0E-4DF9-8873-0E54A6EBA52C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FF5E49B-3A0E-4DF9-8873-0E54A6EBA52C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FF5E49B-3A0E-4DF9-8873-0E54A6EBA52C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FF5E49B-3A0E-4DF9-8873-0E54A6EBA52C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC21B575-4A4B-4A00-824A-C03DE44E626B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC21B575-4A4B-4A00-824A-C03DE44E626B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC21B575-4A4B-4A00-824A-C03DE44E626B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC21B575-4A4B-4A00-824A-C03DE44E626B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6DE37CEF-1522-43DD-8D7B-6146955FA956}
+	EndGlobalSection
+EndGlobal

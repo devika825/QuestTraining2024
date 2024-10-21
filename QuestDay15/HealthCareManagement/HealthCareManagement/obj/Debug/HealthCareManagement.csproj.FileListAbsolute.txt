@@ -1,0 +1,7 @@
+C:\Users\Devika Jayan\source\repos\HealthCareManagement\HealthCareManagement\obj\Debug\HealthCareManagement.csproj.AssemblyReference.cache
+C:\Users\Devika Jayan\source\repos\HealthCareManagement\HealthCareManagement\obj\Debug\HealthCareManagement.csproj.CoreCompileInputs.cache
+C:\Users\Devika Jayan\source\repos\HealthCareManagement\HealthCareManagement\bin\Debug\HealthCareManagement.exe.config
+C:\Users\Devika Jayan\source\repos\HealthCareManagement\HealthCareManagement\bin\Debug\HealthCareManagement.exe
+C:\Users\Devika Jayan\source\repos\HealthCareManagement\HealthCareManagement\bin\Debug\HealthCareManagement.pdb
+C:\Users\Devika Jayan\source\repos\HealthCareManagement\HealthCareManagement\obj\Debug\HealthCareManagement.exe
+C:\Users\Devika Jayan\source\repos\HealthCareManagement\HealthCareManagement\obj\Debug\HealthCareManagement.pdb

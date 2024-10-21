@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Devika Jayan\\OneDrive\\Documents\\GitHub\\QuestTraining2024\\QuestDay15\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EC21B575-4A4B-4A00-824A-C03DE44E626B}|Linq\\Linq.csproj|c:\\users\\devika jayan\\onedrive\\documents\\github\\questtraining2024\\questday15\\linq\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC21B575-4A4B-4A00-824A-C03DE44E626B}|Linq\\Linq.csproj|solutionrelative:linq\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FF5E49B-3A0E-4DF9-8873-0E54A6EBA52C}|QuestDay15\\QuestDay15.csproj|c:\\users\\devika jayan\\onedrive\\documents\\github\\questtraining2024\\questday15\\questday15\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FF5E49B-3A0E-4DF9-8873-0E54A6EBA52C}|QuestDay15\\QuestDay15.csproj|solutionrelative:questday15\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Devika Jayan\\OneDrive\\Documents\\GitHub\\QuestTraining2024\\QuestDay15\\Linq\\Program.cs",
+              "RelativeDocumentMoniker": "Linq\\Program.cs",
+              "ToolTip": "C:\\Users\\Devika Jayan\\OneDrive\\Documents\\GitHub\\QuestTraining2024\\QuestDay15\\Linq\\Program.cs*",
+              "RelativeToolTip": "Linq\\Program.cs*",
+              "ViewState": "AgIAABQAAAAAAAAAAAAUwCAAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T04:49:32.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Devika Jayan\\OneDrive\\Documents\\GitHub\\QuestTraining2024\\QuestDay15\\QuestDay15\\Program.cs",
+              "RelativeDocumentMoniker": "QuestDay15\\Program.cs",
+              "ToolTip": "C:\\Users\\Devika Jayan\\OneDrive\\Documents\\GitHub\\QuestTraining2024\\QuestDay15\\QuestDay15\\Program.cs",
+              "RelativeToolTip": "QuestDay15\\Program.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAQwDAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T03:47:29.614Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

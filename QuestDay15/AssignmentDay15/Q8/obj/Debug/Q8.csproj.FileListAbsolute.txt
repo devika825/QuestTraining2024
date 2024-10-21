@@ -1,0 +1,7 @@
+C:\Users\Devika Jayan\source\repos\AssignmentDay15\Q8\bin\Debug\Q8.exe.config
+C:\Users\Devika Jayan\source\repos\AssignmentDay15\Q8\bin\Debug\Q8.exe
+C:\Users\Devika Jayan\source\repos\AssignmentDay15\Q8\bin\Debug\Q8.pdb
+C:\Users\Devika Jayan\source\repos\AssignmentDay15\Q8\obj\Debug\Q8.csproj.AssemblyReference.cache
+C:\Users\Devika Jayan\source\repos\AssignmentDay15\Q8\obj\Debug\Q8.csproj.CoreCompileInputs.cache
+C:\Users\Devika Jayan\source\repos\AssignmentDay15\Q8\obj\Debug\Q8.exe
+C:\Users\Devika Jayan\source\repos\AssignmentDay15\Q8\obj\Debug\Q8.pdb

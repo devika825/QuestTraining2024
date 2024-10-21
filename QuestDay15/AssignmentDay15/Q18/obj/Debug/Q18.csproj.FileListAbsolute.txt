@@ -1,0 +1,7 @@
+C:\Users\Devika Jayan\source\repos\AssignmentDay15\Q18\bin\Debug\Q18.exe.config
+C:\Users\Devika Jayan\source\repos\AssignmentDay15\Q18\bin\Debug\Q18.exe
+C:\Users\Devika Jayan\source\repos\AssignmentDay15\Q18\bin\Debug\Q18.pdb
+C:\Users\Devika Jayan\source\repos\AssignmentDay15\Q18\obj\Debug\Q18.csproj.AssemblyReference.cache
+C:\Users\Devika Jayan\source\repos\AssignmentDay15\Q18\obj\Debug\Q18.csproj.CoreCompileInputs.cache
+C:\Users\Devika Jayan\source\repos\AssignmentDay15\Q18\obj\Debug\Q18.exe
+C:\Users\Devika Jayan\source\repos\AssignmentDay15\Q18\obj\Debug\Q18.pdb
