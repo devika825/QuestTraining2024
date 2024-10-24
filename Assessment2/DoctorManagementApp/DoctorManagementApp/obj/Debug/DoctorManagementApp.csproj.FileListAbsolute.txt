@@ -1,0 +1,7 @@
+C:\Users\Devika Jayan\source\repos\DoctorManagementApp\DoctorManagementApp\bin\Debug\DoctorManagementApp.exe.config
+C:\Users\Devika Jayan\source\repos\DoctorManagementApp\DoctorManagementApp\bin\Debug\DoctorManagementApp.exe
+C:\Users\Devika Jayan\source\repos\DoctorManagementApp\DoctorManagementApp\bin\Debug\DoctorManagementApp.pdb
+C:\Users\Devika Jayan\source\repos\DoctorManagementApp\DoctorManagementApp\obj\Debug\DoctorManagementApp.csproj.AssemblyReference.cache
+C:\Users\Devika Jayan\source\repos\DoctorManagementApp\DoctorManagementApp\obj\Debug\DoctorManagementApp.csproj.CoreCompileInputs.cache
+C:\Users\Devika Jayan\source\repos\DoctorManagementApp\DoctorManagementApp\obj\Debug\DoctorManagementApp.exe
+C:\Users\Devika Jayan\source\repos\DoctorManagementApp\DoctorManagementApp\obj\Debug\DoctorManagementApp.pdb

@@ -1,0 +1,7 @@
+C:\Users\Devika Jayan\source\repos\ConsoleApp1\Shapes\bin\Debug\Shapes.exe.config
+C:\Users\Devika Jayan\source\repos\ConsoleApp1\Shapes\bin\Debug\Shapes.exe
+C:\Users\Devika Jayan\source\repos\ConsoleApp1\Shapes\bin\Debug\Shapes.pdb
+C:\Users\Devika Jayan\source\repos\ConsoleApp1\Shapes\obj\Debug\Shapes.csproj.AssemblyReference.cache
+C:\Users\Devika Jayan\source\repos\ConsoleApp1\Shapes\obj\Debug\Shapes.csproj.CoreCompileInputs.cache
+C:\Users\Devika Jayan\source\repos\ConsoleApp1\Shapes\obj\Debug\Shapes.exe
+C:\Users\Devika Jayan\source\repos\ConsoleApp1\Shapes\obj\Debug\Shapes.pdb

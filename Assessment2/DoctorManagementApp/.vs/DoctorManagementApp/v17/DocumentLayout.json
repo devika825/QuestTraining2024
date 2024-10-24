@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Devika Jayan\\source\\repos\\DoctorManagementApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7774E46A-8EAD-484D-91AE-53055F2DD6CE}|DoctorManagementApp\\DoctorManagementApp.csproj|c:\\users\\devika jayan\\source\\repos\\doctormanagementapp\\doctormanagementapp\\doctormanagerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7774E46A-8EAD-484D-91AE-53055F2DD6CE}|DoctorManagementApp\\DoctorManagementApp.csproj|solutionrelative:doctormanagementapp\\doctormanagerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7774E46A-8EAD-484D-91AE-53055F2DD6CE}|DoctorManagementApp\\DoctorManagementApp.csproj|C:\\Users\\Devika Jayan\\source\\repos\\DoctorManagementApp\\doctormanagementapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7774E46A-8EAD-484D-91AE-53055F2DD6CE}|DoctorManagementApp\\DoctorManagementApp.csproj|solutionrelative:doctormanagementapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7774E46A-8EAD-484D-91AE-53055F2DD6CE}|DoctorManagementApp\\DoctorManagementApp.csproj|C:\\Users\\Devika Jayan\\source\\repos\\DoctorManagementApp\\doctormanagementapp\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7774E46A-8EAD-484D-91AE-53055F2DD6CE}|DoctorManagementApp\\DoctorManagementApp.csproj|solutionrelative:doctormanagementapp\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7774E46A-8EAD-484D-91AE-53055F2DD6CE}|DoctorManagementApp\\DoctorManagementApp.csproj|c:\\users\\devika jayan\\source\\repos\\doctormanagementapp\\doctormanagementapp\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7774E46A-8EAD-484D-91AE-53055F2DD6CE}|DoctorManagementApp\\DoctorManagementApp.csproj|solutionrelative:doctormanagementapp\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DoctorManageRepo.cs",
+              "DocumentMoniker": "C:\\Users\\Devika Jayan\\source\\repos\\DoctorManagementApp\\DoctorManagementApp\\DoctorManageRepo.cs",
+              "RelativeDocumentMoniker": "DoctorManagementApp\\DoctorManageRepo.cs",
+              "ToolTip": "C:\\Users\\Devika Jayan\\source\\repos\\DoctorManagementApp\\DoctorManagementApp\\DoctorManageRepo.cs*",
+              "RelativeToolTip": "DoctorManagementApp\\DoctorManageRepo.cs*",
+              "ViewState": "AgIAAJEAAAAAAAAAAAAcwJ8AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T04:35:38.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Doctor.cs",
+              "DocumentMoniker": "C:\\Users\\Devika Jayan\\source\\repos\\DoctorManagementApp\\DoctorManagementApp\\Doctor.cs",
+              "RelativeDocumentMoniker": "DoctorManagementApp\\Doctor.cs",
+              "ToolTip": "C:\\Users\\Devika Jayan\\source\\repos\\DoctorManagementApp\\DoctorManagementApp\\Doctor.cs",
+              "RelativeToolTip": "DoctorManagementApp\\Doctor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T04:25:08.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Patient.cs",
+              "DocumentMoniker": "C:\\Users\\Devika Jayan\\source\\repos\\DoctorManagementApp\\DoctorManagementApp\\Patient.cs",
+              "RelativeDocumentMoniker": "DoctorManagementApp\\Patient.cs",
+              "ToolTip": "C:\\Users\\Devika Jayan\\source\\repos\\DoctorManagementApp\\DoctorManagementApp\\Patient.cs",
+              "RelativeToolTip": "DoctorManagementApp\\Patient.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T04:23:20.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Devika Jayan\\source\\repos\\DoctorManagementApp\\DoctorManagementApp\\Program.cs",
+              "RelativeDocumentMoniker": "DoctorManagementApp\\Program.cs",
+              "ToolTip": "C:\\Users\\Devika Jayan\\source\\repos\\DoctorManagementApp\\DoctorManagementApp\\Program.cs",
+              "RelativeToolTip": "DoctorManagementApp\\Program.cs",
+              "ViewState": "AgIAALUAAAAAAAAAAADwv1IAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T04:04:47.042Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
