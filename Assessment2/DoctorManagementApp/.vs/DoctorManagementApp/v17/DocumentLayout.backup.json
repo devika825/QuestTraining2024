@@ -7,15 +7,15 @@
       "RelativeMoniker": "D:0:0:{7774E46A-8EAD-484D-91AE-53055F2DD6CE}|DoctorManagementApp\\DoctorManagementApp.csproj|solutionrelative:doctormanagementapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7774E46A-8EAD-484D-91AE-53055F2DD6CE}|DoctorManagementApp\\DoctorManagementApp.csproj|c:\\users\\devika jayan\\source\\repos\\doctormanagementapp\\doctormanagementapp\\doctormanagerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7774E46A-8EAD-484D-91AE-53055F2DD6CE}|DoctorManagementApp\\DoctorManagementApp.csproj|solutionrelative:doctormanagementapp\\doctormanagerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7774E46A-8EAD-484D-91AE-53055F2DD6CE}|DoctorManagementApp\\DoctorManagementApp.csproj|c:\\users\\devika jayan\\source\\repos\\doctormanagementapp\\doctormanagementapp\\managedb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7774E46A-8EAD-484D-91AE-53055F2DD6CE}|DoctorManagementApp\\DoctorManagementApp.csproj|solutionrelative:doctormanagementapp\\managedb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7774E46A-8EAD-484D-91AE-53055F2DD6CE}|DoctorManagementApp\\DoctorManagementApp.csproj|C:\\Users\\Devika Jayan\\source\\repos\\DoctorManagementApp\\doctormanagementapp\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7774E46A-8EAD-484D-91AE-53055F2DD6CE}|DoctorManagementApp\\DoctorManagementApp.csproj|solutionrelative:doctormanagementapp\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7774E46A-8EAD-484D-91AE-53055F2DD6CE}|DoctorManagementApp\\DoctorManagementApp.csproj|c:\\users\\devika jayan\\source\\repos\\doctormanagementapp\\doctormanagementapp\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7774E46A-8EAD-484D-91AE-53055F2DD6CE}|DoctorManagementApp\\DoctorManagementApp.csproj|C:\\Users\\Devika Jayan\\source\\repos\\DoctorManagementApp\\doctormanagementapp\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7774E46A-8EAD-484D-91AE-53055F2DD6CE}|DoctorManagementApp\\DoctorManagementApp.csproj|solutionrelative:doctormanagementapp\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -31,14 +31,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "DoctorManageRepo.cs",
-              "DocumentMoniker": "C:\\Users\\Devika Jayan\\source\\repos\\DoctorManagementApp\\DoctorManagementApp\\DoctorManageRepo.cs",
-              "RelativeDocumentMoniker": "DoctorManagementApp\\DoctorManageRepo.cs",
-              "ToolTip": "C:\\Users\\Devika Jayan\\source\\repos\\DoctorManagementApp\\DoctorManagementApp\\DoctorManageRepo.cs",
-              "RelativeToolTip": "DoctorManagementApp\\DoctorManageRepo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAK4AAAA/AAAAAAAAAA==",
+              "Title": "ManageDB.cs",
+              "DocumentMoniker": "C:\\Users\\Devika Jayan\\source\\repos\\DoctorManagementApp\\DoctorManagementApp\\ManageDB.cs",
+              "RelativeDocumentMoniker": "DoctorManagementApp\\ManageDB.cs",
+              "ToolTip": "C:\\Users\\Devika Jayan\\source\\repos\\DoctorManagementApp\\DoctorManagementApp\\ManageDB.cs*",
+              "RelativeToolTip": "DoctorManagementApp\\ManageDB.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-24T04:35:38.722Z",
+              "WhenOpened": "2024-10-24T08:57:27.978Z",
               "EditorCaption": ""
             },
             {
@@ -47,9 +47,9 @@
               "Title": "Doctor.cs",
               "DocumentMoniker": "C:\\Users\\Devika Jayan\\source\\repos\\DoctorManagementApp\\DoctorManagementApp\\Doctor.cs",
               "RelativeDocumentMoniker": "DoctorManagementApp\\Doctor.cs",
-              "ToolTip": "C:\\Users\\Devika Jayan\\source\\repos\\DoctorManagementApp\\DoctorManagementApp\\Doctor.cs",
-              "RelativeToolTip": "DoctorManagementApp\\Doctor.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Devika Jayan\\source\\repos\\DoctorManagementApp\\DoctorManagementApp\\Doctor.cs*",
+              "RelativeToolTip": "DoctorManagementApp\\Doctor.cs*",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAIwA4AAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-24T04:25:08.574Z",
               "EditorCaption": ""
@@ -60,9 +60,9 @@
               "Title": "Patient.cs",
               "DocumentMoniker": "C:\\Users\\Devika Jayan\\source\\repos\\DoctorManagementApp\\DoctorManagementApp\\Patient.cs",
               "RelativeDocumentMoniker": "DoctorManagementApp\\Patient.cs",
-              "ToolTip": "C:\\Users\\Devika Jayan\\source\\repos\\DoctorManagementApp\\DoctorManagementApp\\Patient.cs",
-              "RelativeToolTip": "DoctorManagementApp\\Patient.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Devika Jayan\\source\\repos\\DoctorManagementApp\\DoctorManagementApp\\Patient.cs*",
+              "RelativeToolTip": "DoctorManagementApp\\Patient.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFEAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-24T04:23:20.506Z",
               "EditorCaption": ""
@@ -75,7 +75,7 @@
               "RelativeDocumentMoniker": "DoctorManagementApp\\Program.cs",
               "ToolTip": "C:\\Users\\Devika Jayan\\source\\repos\\DoctorManagementApp\\DoctorManagementApp\\Program.cs*",
               "RelativeToolTip": "DoctorManagementApp\\Program.cs*",
-              "ViewState": "AgIAAEAAAAAAAAAAAAAQwFIAAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAMkAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-24T04:04:47.042Z",
               "EditorCaption": ""

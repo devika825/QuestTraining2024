@@ -11,10 +11,12 @@ namespace DoctorManagementApp
     {
         static void Main(string[] args)
         {
-            DoctorManageRepo repo = new DoctorManageRepo();
+            Doctor doctor = new Doctor();
+            Patient patient = new Patient();
 
             while (true)
             {
+                Console.WriteLine("Doctor Management Application");
                 Console.WriteLine("1. Add Patient");
                 Console.WriteLine("2. View Patients");
                 Console.WriteLine("3. Update Patient");
@@ -30,31 +32,31 @@ namespace DoctorManagementApp
                 switch (option)
                 {
                     case "1":
-                        AddPatient(repo);
+                        AddPatient(patient);
                         break;
                     case "2":
-                        ViewPatients(repo);
+                        ViewPatients(patient);
                         break;
                     case "3":
-                        UpdatePatient(repo);
+                        UpdatePatient(patient);
                         break;
                     case "4":
-                        DeletePatient(repo);
+                        DeletePatient(patient);
                         break;
                     case "5":
-                        AddDoctor(repo);
+                        AddDoctor(doctor);
                         break;
                     case "6":
-                        ViewDoctors(repo);
+                        ViewDoctors(doctor);
                         break;
                     case "7":
-                        UpdateDoctor(repo);
+                        UpdateDoctor(doctor);
                         break;
                     case "8":
-                        DeleteDoctor(repo);
+                        DeleteDoctor(doctor);
                         break;
                     case "9":
-                        return;
+                        return; 
                     default:
                         Console.WriteLine("Invalid option. Please try again.");
                         break;
@@ -62,55 +64,60 @@ namespace DoctorManagementApp
             }
         }
 
-        private static void AddPatient(DoctorManageRepo repo)
+        private static void AddPatient(Patient patient)
         {
             Console.Write("Enter Patient Name: ");
-            string name = Console.ReadLine();
-            Console.Write("Enter Age: ");
-            int age = int.Parse(Console.ReadLine());
-            Console.Write("Enter Gender: ");
-            string gender = Console.ReadLine();
-            Console.Write("Enter Medical Condition (optional): ");
-            string medicalCondition = Console.ReadLine();
+            patient.Name = Console.ReadLine();
 
-            var patient = new Patient
-            {
-                Name = name,
-                Age = age,
-                Gender = gender,
-                MedicalCondition =medicalCondition
-            };
-            repo.AddPatient(patient);
+            Console.Write("Enter Age: ");
+            patient.Age = int.Parse(Console.ReadLine());
+
+            Console.Write("Enter Gender: ");
+            patient.Gender = Console.ReadLine();
+
+            Console.Write("Enter Medical Condition: ");
+            patient.MedicalCondition = Console.ReadLine();
+
+            patient.AddPatient(patient);
             Console.WriteLine("Patient added successfully.");
         }
 
-        private static void ViewPatients(DoctorManageRepo repo)
+        private static void ViewPatients(Patient patient)
         {
-            List<Patient> patients = repo.GetPatients();
-            foreach (var patient in patients)
+            List<Patient> patients = patient.GetPatients();
+            Console.WriteLine("\nPatients:");
+            foreach (var p in patients)
             {
-                Console.WriteLine(patient);
+                Console.WriteLine(p);
             }
         }
 
-        private static void UpdatePatient(DoctorManageRepo repo)
+        private static void UpdatePatient(Patient patient)
         {
             Console.Write("Enter Patient ID to update: ");
             int id = int.Parse(Console.ReadLine());
-            var patient = repo.GetPatients().Find(p => p.PatientID == id);
-            if (patient != null)
-            {
-                Console.Write("Enter new Name: ");
-                patient.Name = Console.ReadLine();
-                Console.Write("Enter new Age: ");
-                patient.Age = int.Parse(Console.ReadLine());
-                Console.Write("Enter new Gender: ");
-                patient.Gender = Console.ReadLine();
-                Console.Write("Enter new Medical Condition (optional): ");
-                string medicalCondition = Console.ReadLine();
-                patient.MedicalCondition = string.IsNullOrWhiteSpace(medicalCondition) ? null : medicalCondition;
+            List<Patient> patients = patient.GetPatients();
 
-                repo.UpdatePatient(patient);
+            Patient existingPatient = patients.Find(p => p.PatientID == id);
+            if (existingPatient != null)
+            {
+                Console.Write("Enter new Name (leave blank to keep current): ");
+                string newName = Console.ReadLine();
+                if (!string.IsNullOrEmpty(newName)) existingPatient.Name = newName;
+
+                Console.Write("Enter new Age (leave blank to keep current): ");
+                string newAge = Console.ReadLine();
+                if (int.TryParse(newAge, out int age)) existingPatient.Age = age;
+
+                Console.Write("Enter new Gender (leave blank to keep current): ");
+                string newGender = Console.ReadLine();
+                if (!string.IsNullOrEmpty(newGender)) existingPatient.Gender = newGender;
+
+                Console.Write("Enter new Medical Condition (leave blank to keep current): ");
+                string newCondition = Console.ReadLine();
+                if (!string.IsNullOrEmpty(newCondition)) existingPatient.MedicalCondition = newCondition;
+
+                patient.UpdatePatient(existingPatient);
                 Console.WriteLine("Patient updated successfully.");
             }
             else
@@ -119,63 +126,62 @@ namespace DoctorManagementApp
             }
         }
 
-        private static void DeletePatient(DoctorManageRepo repo)
+        private static void DeletePatient(Patient patient)
         {
             Console.Write("Enter Patient ID to delete: ");
             int id = int.Parse(Console.ReadLine());
-            repo.DeletePatient(id);
+            patient.DeletePatient(id);
             Console.WriteLine("Patient deleted successfully.");
         }
 
-        private static void AddDoctor(DoctorManageRepo repo)
+        private static void AddDoctor(Doctor doctor)
         {
             Console.Write("Enter Doctor Name: ");
-            string name = Console.ReadLine();
-            Console.Write("Enter Specialization: ");
-            string specialization = Console.ReadLine();
-            Console.Write("Enter Assigned Patient ID (optional): ");
-            int? patientId = null;
-            string patientIdInput = Console.ReadLine();
-            if (int.TryParse(patientIdInput, out int id))
-            {
-                patientId = id;
-            }
+            doctor.Name = Console.ReadLine();
 
-            var doctor = new Doctor
-            {
-                Name = name,
-                Specialization = specialization,
-                PatientID = patientId
-            };
-            repo.AddDoctor(doctor);
+            Console.Write("Enter Specialization: ");
+            doctor.Specialization = Console.ReadLine();
+
+            Console.Write("Enter Assigned Patient ID (leave blank if none): ");
+            string patientID = Console.ReadLine();
+            doctor.PatientID = string.IsNullOrEmpty(patientID) ? (int?)null : int.Parse(patientID);
+
+            doctor.AddDoctor(doctor);
             Console.WriteLine("Doctor added successfully.");
         }
 
-        private static void ViewDoctors(DoctorManageRepo repo)
+        private static void ViewDoctors(Doctor doctor)
         {
-            List<Doctor> doctors = repo.GetDoctors();
-            foreach (var doctor in doctors)
+            List<Doctor> doctors = doctor.GetDoctors();
+            Console.WriteLine("\nDoctors:");
+            foreach (var d in doctors)
             {
-                Console.WriteLine(doctor);
+                Console.WriteLine(d);
             }
         }
 
-        private static void UpdateDoctor(DoctorManageRepo repo)
+        private static void UpdateDoctor(Doctor doctor)
         {
             Console.Write("Enter Doctor ID to update: ");
             int id = int.Parse(Console.ReadLine());
-            var doctor = repo.GetDoctors().Find(d => d.DoctorID == id);
-            if (doctor != null)
-            {
-                Console.Write("Enter new Name: ");
-                doctor.Name = Console.ReadLine();
-                Console.Write("Enter new Specialization: ");
-                doctor.Specialization = Console.ReadLine();
-                Console.Write("Enter new Patient ID (optional): ");
-                string patientIdInput = Console.ReadLine();
-                doctor.PatientID = string.IsNullOrWhiteSpace(patientIdInput) ? (int?)null : int.Parse(patientIdInput);
+            List<Doctor> doctors = doctor.GetDoctors();
 
-                repo.UpdateDoctor(doctor);
+            Doctor existingDoctor = doctors.Find(d => d.DoctorID == id);
+            if (existingDoctor != null)
+            {
+                Console.Write("Enter new Name (leave blank to keep current): ");
+                string newName = Console.ReadLine();
+                if (!string.IsNullOrEmpty(newName)) existingDoctor.Name = newName;
+
+                Console.Write("Enter new Specialization (leave blank to keep current): ");
+                string newSpecialization = Console.ReadLine();
+                if (!string.IsNullOrEmpty(newSpecialization)) existingDoctor.Specialization = newSpecialization;
+
+                Console.Write("Enter new Assigned Patient ID (leave blank to keep current): ");
+                string newPatientID = Console.ReadLine();
+                existingDoctor.PatientID = string.IsNullOrEmpty(newPatientID) ? (int?)null : int.Parse(newPatientID);
+
+                doctor.UpdateDoctor(existingDoctor);
                 Console.WriteLine("Doctor updated successfully.");
             }
             else
@@ -184,13 +190,14 @@ namespace DoctorManagementApp
             }
         }
 
-        private static void DeleteDoctor(DoctorManageRepo repo)
+        private static void DeleteDoctor(Doctor doctor)
         {
             Console.Write("Enter Doctor ID to delete: ");
             int id = int.Parse(Console.ReadLine());
-            repo.DeleteDoctor(id);
+            doctor.DeleteDoctor(id);
             Console.WriteLine("Doctor deleted successfully.");
         }
     }
     }
+   
 

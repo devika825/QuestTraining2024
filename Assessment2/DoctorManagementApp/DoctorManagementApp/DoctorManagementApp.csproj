@@ -44,7 +44,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Doctor.cs" />
-    <Compile Include="DoctorManageRepo.cs" />
+    <Compile Include="ManageDB.cs" />
     <Compile Include="Patient.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
