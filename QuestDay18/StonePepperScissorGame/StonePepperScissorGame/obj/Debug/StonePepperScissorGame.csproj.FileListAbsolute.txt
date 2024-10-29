@@ -1,0 +1,7 @@
+C:\Users\Devika Jayan\source\repos\StonePepperScissorGame\StonePepperScissorGame\bin\Debug\StonePepperScissorGame.exe.config
+C:\Users\Devika Jayan\source\repos\StonePepperScissorGame\StonePepperScissorGame\bin\Debug\StonePepperScissorGame.exe
+C:\Users\Devika Jayan\source\repos\StonePepperScissorGame\StonePepperScissorGame\bin\Debug\StonePepperScissorGame.pdb
+C:\Users\Devika Jayan\source\repos\StonePepperScissorGame\StonePepperScissorGame\obj\Debug\StonePepperScissorGame.csproj.AssemblyReference.cache
+C:\Users\Devika Jayan\source\repos\StonePepperScissorGame\StonePepperScissorGame\obj\Debug\StonePepperScissorGame.csproj.CoreCompileInputs.cache
+C:\Users\Devika Jayan\source\repos\StonePepperScissorGame\StonePepperScissorGame\obj\Debug\StonePepperScissorGame.exe
+C:\Users\Devika Jayan\source\repos\StonePepperScissorGame\StonePepperScissorGame\obj\Debug\StonePepperScissorGame.pdb

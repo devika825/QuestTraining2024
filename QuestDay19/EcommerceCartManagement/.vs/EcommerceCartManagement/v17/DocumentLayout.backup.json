@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Devika Jayan\\source\\repos\\EcommerceCartManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2DA7FB56-DE8F-464C-BFAF-A19B38669CC6}|EcommerceCartManagement\\EcommerceCartManagement.csproj|c:\\users\\devika jayan\\source\\repos\\ecommercecartmanagement\\ecommercecartmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DA7FB56-DE8F-464C-BFAF-A19B38669CC6}|EcommerceCartManagement\\EcommerceCartManagement.csproj|solutionrelative:ecommercecartmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DA7FB56-DE8F-464C-BFAF-A19B38669CC6}|EcommerceCartManagement\\EcommerceCartManagement.csproj|c:\\users\\devika jayan\\source\\repos\\ecommercecartmanagement\\ecommercecartmanagement\\billing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DA7FB56-DE8F-464C-BFAF-A19B38669CC6}|EcommerceCartManagement\\EcommerceCartManagement.csproj|solutionrelative:ecommercecartmanagement\\billing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DA7FB56-DE8F-464C-BFAF-A19B38669CC6}|EcommerceCartManagement\\EcommerceCartManagement.csproj|c:\\users\\devika jayan\\source\\repos\\ecommercecartmanagement\\ecommercecartmanagement\\idiscount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DA7FB56-DE8F-464C-BFAF-A19B38669CC6}|EcommerceCartManagement\\EcommerceCartManagement.csproj|solutionrelative:ecommercecartmanagement\\idiscount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DA7FB56-DE8F-464C-BFAF-A19B38669CC6}|EcommerceCartManagement\\EcommerceCartManagement.csproj|c:\\users\\devika jayan\\source\\repos\\ecommercecartmanagement\\ecommercecartmanagement\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DA7FB56-DE8F-464C-BFAF-A19B38669CC6}|EcommerceCartManagement\\EcommerceCartManagement.csproj|solutionrelative:ecommercecartmanagement\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DA7FB56-DE8F-464C-BFAF-A19B38669CC6}|EcommerceCartManagement\\EcommerceCartManagement.csproj|c:\\users\\devika jayan\\source\\repos\\ecommercecartmanagement\\ecommercecartmanagement\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DA7FB56-DE8F-464C-BFAF-A19B38669CC6}|EcommerceCartManagement\\EcommerceCartManagement.csproj|solutionrelative:ecommercecartmanagement\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Billing.cs",
+              "DocumentMoniker": "C:\\Users\\Devika Jayan\\source\\repos\\EcommerceCartManagement\\EcommerceCartManagement\\Billing.cs",
+              "RelativeDocumentMoniker": "EcommerceCartManagement\\Billing.cs",
+              "ToolTip": "C:\\Users\\Devika Jayan\\source\\repos\\EcommerceCartManagement\\EcommerceCartManagement\\Billing.cs",
+              "RelativeToolTip": "EcommerceCartManagement\\Billing.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAYwBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T15:40:05.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IDiscount.cs",
+              "DocumentMoniker": "C:\\Users\\Devika Jayan\\source\\repos\\EcommerceCartManagement\\EcommerceCartManagement\\IDiscount.cs",
+              "RelativeDocumentMoniker": "EcommerceCartManagement\\IDiscount.cs",
+              "ToolTip": "C:\\Users\\Devika Jayan\\source\\repos\\EcommerceCartManagement\\EcommerceCartManagement\\IDiscount.cs",
+              "RelativeToolTip": "EcommerceCartManagement\\IDiscount.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwBMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T15:39:01.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Cart.cs",
+              "DocumentMoniker": "C:\\Users\\Devika Jayan\\source\\repos\\EcommerceCartManagement\\EcommerceCartManagement\\Cart.cs",
+              "RelativeDocumentMoniker": "EcommerceCartManagement\\Cart.cs",
+              "ToolTip": "C:\\Users\\Devika Jayan\\source\\repos\\EcommerceCartManagement\\EcommerceCartManagement\\Cart.cs",
+              "RelativeToolTip": "EcommerceCartManagement\\Cart.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T15:36:37.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CartItem.cs",
+              "DocumentMoniker": "C:\\Users\\Devika Jayan\\source\\repos\\EcommerceCartManagement\\EcommerceCartManagement\\CartItem.cs",
+              "RelativeDocumentMoniker": "EcommerceCartManagement\\CartItem.cs",
+              "ToolTip": "C:\\Users\\Devika Jayan\\source\\repos\\EcommerceCartManagement\\EcommerceCartManagement\\CartItem.cs",
+              "RelativeToolTip": "EcommerceCartManagement\\CartItem.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T12:02:12.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Devika Jayan\\source\\repos\\EcommerceCartManagement\\EcommerceCartManagement\\Program.cs",
+              "RelativeDocumentMoniker": "EcommerceCartManagement\\Program.cs",
+              "ToolTip": "C:\\Users\\Devika Jayan\\source\\repos\\EcommerceCartManagement\\EcommerceCartManagement\\Program.cs",
+              "RelativeToolTip": "EcommerceCartManagement\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAQwBEAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T11:55:48.826Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

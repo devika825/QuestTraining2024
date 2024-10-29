@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Devika Jayan\\source\\repos\\StonePepperScissorGame\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{06D0B767-405E-458A-A6F5-8BA3C67A8D4F}|StonePepperScissorGame\\StonePepperScissorGame.csproj|c:\\users\\devika jayan\\source\\repos\\stonepepperscissorgame\\stonepepperscissorgame\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06D0B767-405E-458A-A6F5-8BA3C67A8D4F}|StonePepperScissorGame\\StonePepperScissorGame.csproj|solutionrelative:stonepepperscissorgame\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06D0B767-405E-458A-A6F5-8BA3C67A8D4F}|StonePepperScissorGame\\StonePepperScissorGame.csproj|c:\\users\\devika jayan\\source\\repos\\stonepepperscissorgame\\stonepepperscissorgame\\computer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06D0B767-405E-458A-A6F5-8BA3C67A8D4F}|StonePepperScissorGame\\StonePepperScissorGame.csproj|solutionrelative:stonepepperscissorgame\\computer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06D0B767-405E-458A-A6F5-8BA3C67A8D4F}|StonePepperScissorGame\\StonePepperScissorGame.csproj|c:\\users\\devika jayan\\source\\repos\\stonepepperscissorgame\\stonepepperscissorgame\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06D0B767-405E-458A-A6F5-8BA3C67A8D4F}|StonePepperScissorGame\\StonePepperScissorGame.csproj|solutionrelative:stonepepperscissorgame\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06D0B767-405E-458A-A6F5-8BA3C67A8D4F}|StonePepperScissorGame\\StonePepperScissorGame.csproj|c:\\users\\devika jayan\\source\\repos\\stonepepperscissorgame\\stonepepperscissorgame\\move.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06D0B767-405E-458A-A6F5-8BA3C67A8D4F}|StonePepperScissorGame\\StonePepperScissorGame.csproj|solutionrelative:stonepepperscissorgame\\move.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06D0B767-405E-458A-A6F5-8BA3C67A8D4F}|StonePepperScissorGame\\StonePepperScissorGame.csproj|c:\\users\\devika jayan\\source\\repos\\stonepepperscissorgame\\stonepepperscissorgame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06D0B767-405E-458A-A6F5-8BA3C67A8D4F}|StonePepperScissorGame\\StonePepperScissorGame.csproj|solutionrelative:stonepepperscissorgame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Game.cs",
+              "DocumentMoniker": "C:\\Users\\Devika Jayan\\source\\repos\\StonePepperScissorGame\\StonePepperScissorGame\\Game.cs",
+              "RelativeDocumentMoniker": "StonePepperScissorGame\\Game.cs",
+              "ToolTip": "C:\\Users\\Devika Jayan\\source\\repos\\StonePepperScissorGame\\StonePepperScissorGame\\Game.cs",
+              "RelativeToolTip": "StonePepperScissorGame\\Game.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAABgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T06:11:36.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Computer.cs",
+              "DocumentMoniker": "C:\\Users\\Devika Jayan\\source\\repos\\StonePepperScissorGame\\StonePepperScissorGame\\Computer.cs",
+              "RelativeDocumentMoniker": "StonePepperScissorGame\\Computer.cs",
+              "ToolTip": "C:\\Users\\Devika Jayan\\source\\repos\\StonePepperScissorGame\\StonePepperScissorGame\\Computer.cs",
+              "RelativeToolTip": "StonePepperScissorGame\\Computer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T06:03:56.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\Devika Jayan\\source\\repos\\StonePepperScissorGame\\StonePepperScissorGame\\Player.cs",
+              "RelativeDocumentMoniker": "StonePepperScissorGame\\Player.cs",
+              "ToolTip": "C:\\Users\\Devika Jayan\\source\\repos\\StonePepperScissorGame\\StonePepperScissorGame\\Player.cs*",
+              "RelativeToolTip": "StonePepperScissorGame\\Player.cs*",
+              "ViewState": "AgIAAA0AAAAAAAAAAADwvyUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T06:02:57.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Move.cs",
+              "DocumentMoniker": "C:\\Users\\Devika Jayan\\source\\repos\\StonePepperScissorGame\\StonePepperScissorGame\\Move.cs",
+              "RelativeDocumentMoniker": "StonePepperScissorGame\\Move.cs",
+              "ToolTip": "C:\\Users\\Devika Jayan\\source\\repos\\StonePepperScissorGame\\StonePepperScissorGame\\Move.cs",
+              "RelativeToolTip": "StonePepperScissorGame\\Move.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T06:01:11.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Devika Jayan\\source\\repos\\StonePepperScissorGame\\StonePepperScissorGame\\Program.cs",
+              "RelativeDocumentMoniker": "StonePepperScissorGame\\Program.cs",
+              "ToolTip": "C:\\Users\\Devika Jayan\\source\\repos\\StonePepperScissorGame\\StonePepperScissorGame\\Program.cs",
+              "RelativeToolTip": "StonePepperScissorGame\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T05:59:36.079Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
