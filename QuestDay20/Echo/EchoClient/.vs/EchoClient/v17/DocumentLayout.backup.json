@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Devika Jayan\\source\\repos\\EchoClient\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{694C7DB4-83E7-4211-A621-254F5F981757}|EchoClient\\EchoClient.csproj|c:\\users\\devika jayan\\source\\repos\\echoclient\\echoclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{694C7DB4-83E7-4211-A621-254F5F981757}|EchoClient\\EchoClient.csproj|solutionrelative:echoclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{694C7DB4-83E7-4211-A621-254F5F981757}|EchoClient\\EchoClient.csproj|c:\\users\\devika jayan\\source\\repos\\echoclient\\echoclient\\clientbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{694C7DB4-83E7-4211-A621-254F5F981757}|EchoClient\\EchoClient.csproj|solutionrelative:echoclient\\clientbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClientBuilder.cs",
+              "DocumentMoniker": "C:\\Users\\Devika Jayan\\source\\repos\\EchoClient\\EchoClient\\ClientBuilder.cs",
+              "RelativeDocumentMoniker": "EchoClient\\ClientBuilder.cs",
+              "ToolTip": "C:\\Users\\Devika Jayan\\source\\repos\\EchoClient\\EchoClient\\ClientBuilder.cs",
+              "RelativeToolTip": "EchoClient\\ClientBuilder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T09:49:08.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Devika Jayan\\source\\repos\\EchoClient\\EchoClient\\Program.cs",
+              "RelativeDocumentMoniker": "EchoClient\\Program.cs",
+              "ToolTip": "C:\\Users\\Devika Jayan\\source\\repos\\EchoClient\\EchoClient\\Program.cs*",
+              "RelativeToolTip": "EchoClient\\Program.cs*",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T08:38:37.996Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

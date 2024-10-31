@@ -1,0 +1,7 @@
+C:\Users\Devika Jayan\source\repos\EchoServer\EchoServer\bin\Debug\EchoServer.exe.config
+C:\Users\Devika Jayan\source\repos\EchoServer\EchoServer\bin\Debug\EchoServer.exe
+C:\Users\Devika Jayan\source\repos\EchoServer\EchoServer\bin\Debug\EchoServer.pdb
+C:\Users\Devika Jayan\source\repos\EchoServer\EchoServer\obj\Debug\EchoServer.csproj.AssemblyReference.cache
+C:\Users\Devika Jayan\source\repos\EchoServer\EchoServer\obj\Debug\EchoServer.csproj.CoreCompileInputs.cache
+C:\Users\Devika Jayan\source\repos\EchoServer\EchoServer\obj\Debug\EchoServer.exe
+C:\Users\Devika Jayan\source\repos\EchoServer\EchoServer\obj\Debug\EchoServer.pdb

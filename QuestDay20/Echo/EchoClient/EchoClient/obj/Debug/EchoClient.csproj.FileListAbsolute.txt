@@ -1,0 +1,7 @@
+C:\Users\Devika Jayan\source\repos\EchoClient\EchoClient\bin\Debug\EchoClient.exe.config
+C:\Users\Devika Jayan\source\repos\EchoClient\EchoClient\bin\Debug\EchoClient.exe
+C:\Users\Devika Jayan\source\repos\EchoClient\EchoClient\bin\Debug\EchoClient.pdb
+C:\Users\Devika Jayan\source\repos\EchoClient\EchoClient\obj\Debug\EchoClient.csproj.AssemblyReference.cache
+C:\Users\Devika Jayan\source\repos\EchoClient\EchoClient\obj\Debug\EchoClient.csproj.CoreCompileInputs.cache
+C:\Users\Devika Jayan\source\repos\EchoClient\EchoClient\obj\Debug\EchoClient.exe
+C:\Users\Devika Jayan\source\repos\EchoClient\EchoClient\obj\Debug\EchoClient.pdb
